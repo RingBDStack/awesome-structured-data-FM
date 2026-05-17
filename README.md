@@ -186,7 +186,7 @@ This repository is the official repository for our survey:
 
 ## 🧰 Resources
 
-- 📄 Survey Paper: xxx
+- 📄 Survey Paper: [paper](https://www.researchgate.net/publication/404353882_A_Survey_on_Foundation_Models_for_Structured_Data_Tabular_Time_Series_and_Graphs)
 - 🌏 Cite:
   > @article{XXX}
 
